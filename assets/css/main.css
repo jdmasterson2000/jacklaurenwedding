@@ -133,11 +133,7 @@ input, select, textarea {
 
 /* Type */
 
-	@media screen (max-width: 600px) {
-		#smallscreenmap {
-	  		width: 100%; 
-		}
- 	}
+	
 	#nospace {
 		margin: 0;
 		padding: 0;
